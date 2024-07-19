@@ -1,11 +1,10 @@
+import Header from "../../Common/Header/Index"
 
 
 const Home=()=>{
     return(
         <>
-        <h1>
-            Welcome
-        </h1>
+        <Header />
         </>
     )
 }
